@@ -9,3 +9,6 @@ export * as staking from './staking';
 export * as system from './system';
 export * as utility from './utility';
 export * as vesting from './vesting';
+export * as trainingNodeInterface from './trainingNodeInterface';
+export * as fooFoo from './fooFoo';
+

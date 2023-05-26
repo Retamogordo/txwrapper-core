@@ -26,6 +26,8 @@ export const methods = {
 	crowdloan: polkadotMethods.crowdloan,
 	// assets is only applicable to State{mint, mine}
 	assets: substrateMethods.assets,
+	trainingNodeInterface: substrateMethods.trainingNodeInterface,
+	fooFoo: substrateMethods.fooFoo,
 };
 
 // Re-export all of txwrapper-core so users have access to utilities, construct functions,
